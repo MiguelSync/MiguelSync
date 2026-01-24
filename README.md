@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Miguel Selhorst
+# 🧑🏼‍💻 MiguelSync
 
 **`Desenvolvedor Front-End`**
 
@@ -46,7 +46,7 @@ Me chamo Miguel Antonio Selhorst, tenho 20 anos e sou natural do Santa Catarina.
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/vuejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 <img 
     align="left" 
@@ -86,9 +86,8 @@ Me chamo Miguel Antonio Selhorst, tenho 20 anos e sou natural do Santa Catarina.
 
 ### 📊 Estatísticas
 
- ![GitHub Metrics](https://metrics.lecoq.io/miguelsync?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&stars=1&repositories=1&followup=1&achievements=1&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%25&theme=tokyonight)
-
 <p>
+    
 <img 
       align="left" 
       alt="GitHub Stats" 
