@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Miguel Antonio Selhorst, tenho 20 anos e sou natural do Santa Catarina. Concluí o ensino médio no EEBWP. Atualmente, estou cursando Sistemas de Informação na UNIDAVI 5 Fase. Sou apaixonado por tecnologias, gosto de programar e desenvolver WebSites.
+Me chamo Miguel Antonio Selhorst, tenho 20 anos e sou natural de Santa Catarina. Concluí o ensino médio no EEBWP. Atualmente, estou cursando Sistemas de Informação na UNIDAVI 5 Fase. Sou apaixonado por tecnologias, gosto de programar e desenvolver WebSites.
 
 ---
 
