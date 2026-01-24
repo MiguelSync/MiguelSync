@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Miguel Antonio Selhorst, tenho 20 anos e sou natural do Santa Catarina. Concluí o ensino médio no EEBWP, Atualmente, estou cursando Sistemas de Informação na UNIDAVI 5 fase. Sou apaixonado por tecnologias, gosto de programar e desenvolver WebSites.
+Me chamo Miguel Antonio Selhorst, tenho 20 anos e sou natural do Santa Catarina. Concluí o ensino médio no EEBWP. Atualmente, estou cursando Sistemas de Informação na UNIDAVI 5 Fase. Sou apaixonado por tecnologias, gosto de programar e desenvolver WebSites.
 
 ---
 
@@ -86,15 +86,9 @@ Me chamo Miguel Antonio Selhorst, tenho 20 anos e sou natural do Santa Catarina.
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=miguelsync&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+ ![GitHub Metrics](https://metrics.lecoq.io/miguelsync?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&stars=1&repositories=1&followup=1&achievements=1&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%25&theme=tokyonight)
 
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
